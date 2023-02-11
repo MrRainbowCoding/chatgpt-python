@@ -1,7 +1,7 @@
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = "ENTER_YOUR_TOKEN"
 
 def generate_response(prompt):
     model_engine = "text-davinci-003"
